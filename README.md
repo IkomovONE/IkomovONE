@@ -34,6 +34,7 @@ A real-time global flight tracking tool with API integration and a clean, respon
 A full-stack aquarium monitoring system built for real-time sensor tracking and daily analysis.
 
 - Built with **FastAPI** backend and **Vue.js** frontend
+- Features chatGPT integration for status updates and guidance
 - Runs on **Raspberry Pi 5**, connected to 6 sensors (pH, TDS, temp, light, water level, flow)
 - Uses **MongoDB** for logging and computing daily stats
 - Two-threaded sensor data pipeline with real-time alerts
