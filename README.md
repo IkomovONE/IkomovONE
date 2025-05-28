@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Daniil, nice to meet you!
 
 🎓 Master’s student, studying Digital Systems and Service Development at LUT 
+
 💻 Junior Software Engineer
+
 🌍 Based in Lahti, Finland — open to relocate  
 
 I'm a reflective and driven software engineer with a strong background in digital systems, backend development, and real-world collaboration. Currently building a real-time **Flight Tracker** and continuously exploring systems integration, IoT, and user-focused design.
