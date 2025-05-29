@@ -1,10 +1,20 @@
 # 👋 Hi, I'm Daniil, nice to meet you!
 
+<p>
+  <a href="https://www.linkedin.com/in/daniilkomov/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+ 
+</p>
+
+
 🎓 Master’s student, studying Digital Systems and Service Development at LUT 
 
 💻 Junior Software Engineer
 
 🌍 Based in Lahti, Finland — open to relocate  
+
+🗣️ English speaker & Finnish citizen
+
+🖥️ Platforms: macOS • Linux • Windows
 
 I'm a reflective and driven software engineer with a strong background in digital systems, backend development, and real-world collaboration. Currently building a real-time **Flight Tracker** and continuously exploring systems integration, IoT, and user-focused design.
 
