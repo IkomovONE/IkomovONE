@@ -2,9 +2,12 @@
 
 <p>
   <a href="https://www.linkedin.com/in/daniilkomov/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+ 
  
 </p>
 
+📧 daniil_komov@icloud.com
 
 🎓 Master’s student, studying Digital Systems and Service Development at LUT 
 
